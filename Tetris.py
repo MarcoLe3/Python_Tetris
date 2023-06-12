@@ -1,3 +1,5 @@
+#1. creates a Tetris game
+
 import pygame
 import random 
 
